@@ -2,7 +2,7 @@
 
 ## About Me 😺🎀
 I'm an aspiring software engineer with a passion for innovative, human-ceneted designs and solutions. 
-Currently, I'm a student at Orange Coast College, and I'm driven by a strong desire to continuously expand my knowledge and expertise..
+Currently, I'm a student at Orange Coast College, and I'm driven by a strong desire to continuously expand my knowledge and expertise.
 
 ## Skills 💪
 - Programming Languages: Python, HTML, CSS, JavaScript, Java, C++

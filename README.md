@@ -1,5 +1,5 @@
 # 👋🏽 Hi, I'm Sydney!
-👩🏽‍💻 Aspiring Software Engineer sharing my jorney through tech as I learn so many cool and fun things!<br>👩🏽‍🎓 Undergraduate student in Computer Science at UCLA<br>🎨 I have experience in graphic design and possess very healthy right brain! I love creating innovative, human-centered designs.<br>🌷 #learninginpublic Follow me on LinkedIn and visit my landing page to watch me grow 📈<br>💭 Currently learning React, Tailwind, UX/UI Design, AI, AWS
+👩🏽‍💻 Aspiring Software Engineer sharing my jorney through tech as I learn so many cool and fun things!<br>👩🏽‍🎓 Undergraduate student in Computer Science at UCLA<br>🎨 I have experience in graphic design and possess very healthy right brain! I love creating innovative, human-centered designs.<br>
 
 
 # 💻 Tech Stack:

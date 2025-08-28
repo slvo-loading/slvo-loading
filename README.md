@@ -1,5 +1,5 @@
 # 👋🏽 Hi, I'm Sydney!
-👩🏽‍💻 Aspiring Software Engineer sharing my jorney through tech as I learn so many cool and fun things!<br>👩🏽‍🎓 Undergraduate student in Computer Science at UCLA<br>🎨 I have experience in graphic design and possess very healthy right brain! I love creating innovative, human-centered designs.<br>
+👩🏽‍💻 Aspiring Software Engineer sharing my jorney through tech as I learn so many cool and fun things!<br>👩🏽‍🎓 Undergraduate student in Computer Science at UCLA<br> 🦾 I just really love building things.<br>
 
 
 # 💻 Tech Stack:
